@@ -131,7 +131,6 @@ After fixing data leakage issues:
 
 ## Business Impact
 
-### Resume Bullet Points
 1. **Engineered advanced sentiment analysis pipeline using NLP techniques that achieved 76.2% accuracy in predicting customer churn**, enabling data-driven retention strategies that could reduce subscriber attrition by 20%+ for streaming platforms
 
 2. **Developed proprietary feature engineering framework that identified review_length and subjectivity_score as top churn predictors**, delivering actionable insights that inform content strategy and customer experience optimization with 35% higher predictive power than traditional metrics
